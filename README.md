@@ -44,7 +44,7 @@ I currently work in DevOps and SRE projects mostly using Golang and Cloud-Native
     <img src="https://raw.githubusercontent.com/shyovn/shyovn/master/assets/grpc.gif"  height="75" />
   </a>
   <a href="https://python.org/" target="_blank" >
-   <img src="https://raw.githubusercontent.com/shyovn/shyovn/blob/master/assets/python.gif"  height="75" />
+   <img src="https://github.com/shyovn/shyovn/blob/master/assets/python.gif?raw=true"  height="75" />
   </a>
  </p>
   
