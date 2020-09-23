@@ -43,6 +43,9 @@ I currently work in DevOps and SRE projects mostly using Golang and Cloud-Native
   <a href="https://grpc.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/shyovn/shyovn/master/assets/grpc.gif"  height="75" />
   </a>
+  <a href="https://python.org/" target="_blank" >
+   <img src="https://raw.githubusercontent.com/shyovn/shyovn/master/assets/python.gif"  height="75" />
+  </a>
  </p>
   
 ### Cloud
