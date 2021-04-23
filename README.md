@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Yogesh, Software Engineer based in Ireland with a strong interest in Open-Source.
+My name is Yogesh, Software Engineer based in Ireland.
 
-I currently work in DevOps and SRE projects mostly using Golang and Cloud-Native technologies.
+I enjoy working in Infrastructure, DevOps and SRE projects mostly using Python, Golang and Cloud-Native technologies.
 
 
 <p float="left">
